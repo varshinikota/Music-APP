@@ -69,17 +69,17 @@ Ensure the following are installed on your system:
    cd Music-APP
    ```
 
-2. Install Backend Dependencies:
+2. Unzip the Backend folder and install Backend dependencies:
 
    ```bash
-   cd server
+   cd backend
    npm install
    ```
 
-3. Install Frontend Dependencies:
+3. Unzip the Frontend folder and install Frontend dependencies:
 
    ```bash
-   cd ../client
+   cd ../frontend
    npm install
    ```
 
@@ -120,7 +120,7 @@ mongod
 Start the Backend:
 
 ```bash
-cd server
+cd backend
 node server
 ```
 
@@ -129,7 +129,7 @@ The backend will be running at: [http://localhost:1337](http://localhost:1337)
 Start the Frontend:
 
 ```bash
-cd client
+cd frontend
 npm run dev
 ```
 
