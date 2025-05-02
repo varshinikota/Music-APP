@@ -65,8 +65,8 @@ Ensure the following are installed on your system:
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/your-username/music-streaming-app.git
-   cd music-streaming-app
+   git clone https://github.com/varshinikota/Music-APP.git
+   cd Music-APP
    ```
 
 2. Install Backend Dependencies:
@@ -154,4 +154,4 @@ Open your browser and navigate to:
 
 For any questions or collaboration, feel free to reach out at:
 
-📧 [your-email@example.com](mailto:varshini_kota@srmap.edu.in)
+📧 [varshini_kota@srmap.edu.in](mailto:varshini_kota@srmap.edu.in)
